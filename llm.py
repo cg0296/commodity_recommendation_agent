@@ -9,7 +9,7 @@ client = OpenAI()  # reads OPENAI_API_KEY from your environment
 
 resp = client.responses.create(
     model="gpt-4o-mini",
-    input="Hello World!"
+    input="My name is Amber"
 )
 
 print(resp.output_text)
