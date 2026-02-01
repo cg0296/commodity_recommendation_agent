@@ -1,4 +1,4 @@
-# Curt GHpt
+# Curt GPT
 A simple Streamlit chat-style app that sends a prompt to the OpenAI Responses API and displays the model output above the input form.
 
 ## Features
